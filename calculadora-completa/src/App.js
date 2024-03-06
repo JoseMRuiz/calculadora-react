@@ -1,6 +1,6 @@
 import './App.css';
 import logofreecode from './imagenes/logofreecode.png';
-
+import Boton from './componentes/boton';
 
 function App() {
   return (
@@ -10,8 +10,24 @@ function App() {
           src={logofreecode}
           className='freecodecamp-logo'
           alt='logo de freecodecamp' />;
-        <h1>hola</h1>
+
       </div>
+      <div className='contenedor-calculadora'>
+        <div className='fila'>
+          <Boton>
+            1
+          </Boton>
+          <Boton>
+            +
+          </Boton>
+        </div>
+        <div className='fila'></div>
+        <div className='fila'></div>
+        <div className='fila'></div>
+        <div className='fila'></div>
+
+      </div>
+
     </div>
   );
 }
