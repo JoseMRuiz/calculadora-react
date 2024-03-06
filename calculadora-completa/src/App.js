@@ -10,7 +10,7 @@ function App() {
           src={logofreecode}
           className='freecodecamp-logo'
           alt='logo de freecodecamp' />;
-
+        <h1>hola</h1>
       </div>
     </div>
   );
