@@ -21,6 +21,9 @@ function App() {
             +
           </Boton>
           <Boton>
+
+          </Boton>
+          <Boton>
             
           </Boton>
         </div>
