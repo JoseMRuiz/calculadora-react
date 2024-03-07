@@ -20,6 +20,9 @@ function App() {
           <Boton>
             +
           </Boton>
+          <Boton>
+            
+          </Boton>
         </div>
         <div className='fila'></div>
         <div className='fila'></div>
