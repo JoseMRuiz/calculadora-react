@@ -2,7 +2,7 @@ import './App.css';
 import logofreecode from './imagenes/logofreecode.png';
 import Boton from './componentes/boton';
 import Pantalla from './componentes/pantalla';
-import BotonClear from './componentes/BotonClear';
+import {  BotonClear } from './componentes/BotonB';
 import { useState } from 'react';
 import { evaluate }  from 'mathjs';
 

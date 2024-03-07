@@ -1,0 +1,1 @@
+export { BotonClear } from './BotonB';
